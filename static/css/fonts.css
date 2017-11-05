@@ -1,0 +1,45 @@
+@font-face {
+	font-family: Samim;
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/samim/Samim.eot');
+	src: url('../fonts/samim/Samim.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/samim/Samim.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/samim/Samim.ttf') format('truetype');
+}
+@font-face {
+	font-family: Shabnam;
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/shabnam/Shabnam.eot');
+	src: url('../fonts/shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/shabnam/Shabnam.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/shabnam/Shabnam.ttf') format('truetype');
+}
+@font-face {
+	font-family: Shabnam;
+	font-style: bold;
+	font-weight: 700;
+	src: url('../fonts/shabnam/Shabnam-Bold.eot');
+	src: url('../fonts/shabnam/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/shabnam/Shabnam-Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/shabnam/Shabnam-Bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: Tanha;
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/tanha/Tanha.eot');
+	src: url('../fonts/tanha/Tanha.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/tanha/Tanha.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/tanha/Tanha.ttf') format('truetype');
+}
+@font-face {
+	font-family: Vazir;
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/vazir/Vazir.eot');
+	src: url('../fonts/vazir/Vazir.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/vazir/Vazir.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/vazir/Vazir.ttf') format('truetype');
+}

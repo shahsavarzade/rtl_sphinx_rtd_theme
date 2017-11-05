@@ -1,3 +1,4 @@
+﻿@import url(fonts.css);
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -5602,7 +5603,7 @@ h6,
 legend {
     margin-top: 0;
     font-weight: 700;
-    font-family: "Roboto Slab", "ff-tisa-web-pro", "Georgia", Arial, sans-serif
+    font-family: Shabnam;
 }
 
 p {
@@ -7102,7 +7103,7 @@ footer span.commit .rst-content tt,
 
 .rst-content .sidebar .sidebar-title {
     display: block;
-    font-family: "Roboto Slab", "ff-tisa-web-pro", "Georgia", Arial, sans-serif;
+    font-family: Shabnam;
     font-weight: bold;
     background: #e1e4e5;
     padding: 6px 12px;
@@ -7423,17 +7424,17 @@ span[id*='MathJax-Span'] {
 }
 
 @font-face {
-    font-family: "Roboto Slab";
+    font-family: "Shabnam";
     font-style: normal;
     font-weight: 400;
-    src: local("Roboto Slab Regular"), local("RobotoSlab-Regular"), url(../fonts/RobotoSlab-Regular.ttf) format("truetype")
+    src: local("Shabnam"), local("Shabnam-Regular"), url(../fonts/Shabnam/Shabnam.ttf) format("truetype")
 }
 
 @font-face {
-    font-family: "Roboto Slab";
+    font-family: "Shabnam";
     font-style: normal;
     font-weight: 700;
-    src: local("Roboto Slab Bold"), local("RobotoSlab-Bold"), url(../fonts/RobotoSlab-Bold.ttf) format("truetype")
+    src: local("Shabnam Bold"), local("Shabnam-Blod"), url(../fonts/Shabnam/Shabnam-Bold.ttf) format("truetype")
 }
 
 
@@ -7938,7 +7939,7 @@ article ol li {
 
 
 
-@media screen and (min-width: 1400px) 
+@media screen and (min-width: 1400px)
 }
 
 .rst-versions {
