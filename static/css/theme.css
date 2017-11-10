@@ -6623,11 +6623,13 @@ div[class^='highlight'] pre {
 }
 
 .wy-body-mask.on {
-    display: block
+    display: block;
 }
 
 footer {
-    color: gray
+    color: gray;
+    direction: ltr;
+    text-align: left;
 }
 
 footer p {
